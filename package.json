@@ -4,13 +4,13 @@
   "description": "Make pictures of Scratch blocks from text.",
   "license": "MIT",
   "author": "Tim Radvan",
-  "homepage": "https://scratchblocks.github.io/",
+  "homepage": "https://dinosaurblocks.github.io/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scratchblocks/scratchblocks.git"
+    "url": "git+https://github.com/dinosaurblocks/dinosaurblocks.git"
   },
   "bugs": {
-    "url": "https://github.com/scratchblocks/scratchblocks/issues"
+    "url": "https://github.com/dinosaurblocks/dinosaurblocks/issues"
   },
   "type": "module",
   "main": "build/scratchblocks.min.js",

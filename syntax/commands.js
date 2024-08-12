@@ -143,7 +143,7 @@ export default [
     category: "looks",
   },
   {
-    id: "LOOKS_STOPTALKING",
+    /*'id: "LOOKS_STOPTALKING",*/
     selector: "stopTalking",
     spec: "stop speaking",
     inputs: [],

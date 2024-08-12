@@ -143,6 +143,14 @@ export default [
     category: "looks",
   },
   {
+    id: "LOOKS_STOPTALKING",
+    selector: "stopTalking",
+    spec: "stop speaking",
+    inputs: [],
+    shape: "stack",
+    category: "looks",
+  },
+  {
     id: "LOOKS_SHOW",
     selector: "show",
     spec: "show",

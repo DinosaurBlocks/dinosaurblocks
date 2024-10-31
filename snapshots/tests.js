@@ -863,6 +863,7 @@ test <> [item v] ()::custom
 test <> [item v] ()::extension
 test <> [item v] ()::obsolete
 test <> [item v] ()::grey
+test <> [item v] ()::debugger
 `,
 )
 

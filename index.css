@@ -292,6 +292,7 @@ button:active, button.pressed, .button:active, .button.pressed {
 .cm-s-list { color: #cc5b22; }
 .cm-s-extension { color: #4b4a60; }
 .cm-s-grey { color: #888; }
+.cm-s-debugger { color: #29BEB8; }
 
 .bg-motion { background: #4a6cd4; }
 .bg-looks { background: #8a55d7; }

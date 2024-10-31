@@ -955,6 +955,14 @@ export default [
     category: "sensing",
   },
   {
+    /*id: "SENSING_LOUD",*/
+    selector: "isloud",
+    spec: "loud?",
+    inputs: [],
+    shape: "boolean",
+    category: "sensing",
+  },
+  {
     id: "videoSensing.videoOn",
     selector: "senseVideoMotion",
     spec: "video %1 on %2",

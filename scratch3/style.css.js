@@ -71,6 +71,7 @@ ${createRule("custom", name, style)}
 ${createRule("extension", name, style)}
 ${createRule("obsolete", name, style)}
 ${createRule("grey", name, style)}
+${createRule("debugger", name, style)}
 
 svg${name} .sb3-label {
   fill: ${style.label};
@@ -157,6 +158,11 @@ const originalStyle = {
   greyPrimary: "#bfbfbf",
   greySecondary: "#b2b2b2",
   greyTertiary: "#909090",
+
+  /* Debugger block colors from Scratch Addons */
+  debuggerPrimary: "#29beb8",
+  debuggerSecondary: "#3aa8a4",
+  debuggerTeritary: "#3aa8a4",
 }
 
 const highContrastStyle = {
@@ -218,6 +224,10 @@ const highContrastStyle = {
   greySecondary: "#b2b2b2",
   /* Changed to be AAA against #000000, was AA */
   greyTertiary: "#959595",
+
+  debuggerPrimary: "#3aa8a4",
+  debuggerSecondary: "#22746b",
+  debuggerTeritary: "#22746b",
 }
 
 export default common +

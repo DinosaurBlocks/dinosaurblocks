@@ -17,6 +17,7 @@ const overrideCategories = [
   "extension",
   "grey",
   "obsolete",
+  "debugger",
   ...Object.keys(extensions),
   ...Object.keys(aliasExtensions),
 ]
